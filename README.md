@@ -34,6 +34,6 @@
     
 ![HoHyun-Dev's github stats](https://github-readme-stats.vercel.app/api?username=HoHyun-Dev&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shim7925)](https://solved.ac/chltmdwns96/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shim7925)](https://solved.ac/shim7925/)
     
 </div>
