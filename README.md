@@ -5,8 +5,8 @@
 
 <p align="center">
     반갑습니다👐 <br>
-    컴퓨터공학을 전공 중이며, <br>
-    하나를 배우더라도 깊이 있게 배우려는 자세로 게임 개발을 하고 있습니다.
+    저는 컴퓨터공학을 전공 하고 게임 개발을 하고 있으며, <br>
+    하나를 배우더라도 깊이 있게 공부하는 것을 좋아합니다.
 
     Nice to meet you👐
     I'm majoring in computer engineering and learning game development.
