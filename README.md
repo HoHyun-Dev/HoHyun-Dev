@@ -5,11 +5,11 @@
 
 <p align="center">
     반갑습니다👐 <br>
-    저는 컴퓨터공학을 전공 하고 게임 개발을 하고 있으며, <br>
+    저는 컴퓨터공학을 전공 하고 백엔드 개발을 하고 있으며, <br>
     하나를 배우더라도 깊이 있게 공부하는 것을 좋아합니다.
 
     Nice to meet you👐
-    I'm majoring in computer engineering and learning game development.
+    I'm majoring in computer engineering and learning Back-End development.
 </p>
 
 <br>
