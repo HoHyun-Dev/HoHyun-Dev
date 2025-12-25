@@ -33,7 +33,7 @@
 
 <div align="center">
     
-![HoHyun-Dev's github stats](https://github-readme-stats.vercel.app/api?username=HoHyun-Dev&show_icons=true)
+![HoHyun-Dev's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HoHyun-Dev&show_icons=true)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shim7925)](https://solved.ac/shim7925)
 </div>
